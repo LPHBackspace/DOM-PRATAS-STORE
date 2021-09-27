@@ -360,10 +360,11 @@ header .navbar a:hover{
 }
 .order .row form .btn{
     background: none;
-    color: var(--color1)
+    color: var(--color1);
+    cursor: pointer;
 }
 .order .row form .btn:hover{
-    background: var(--color);
+    background: var(--color1);
     color: #fff;
 }
 .footer{
